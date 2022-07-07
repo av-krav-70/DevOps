@@ -1,2 +1,7 @@
 First changes
 Second changes
+Batch Begin
+ 1
+ 2
+ 3
+Batch End
